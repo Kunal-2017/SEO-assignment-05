@@ -1,0 +1,7 @@
+Que.5 Define Favicon and give an illustrative example.
+
+Sol:
+A favicon is a tiny picture that represents a website and appears in the browser's address bar, tab or bookmarks. It helps users recognize and find websites easily.
+
+Example-
+Imagine a website for a pizza place called "PizzaPlanet." Their favicon could be a small pizza slice icon that you see in the browser tab when you visit their site. This little pizza slice helps you identify their website quickly among your open tabs.

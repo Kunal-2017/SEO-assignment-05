@@ -1,0 +1,12 @@
+Que 3. What are the benefits of using meta tags?
+
+Sol:
+Using meta tags on our website can bring several benefits:
+
+1.Better Search Engine Ranking: Meta tags, like title and description tags, help search engines understand what our webpage is about. 
+
+2.Improved Click-Through Rate: When our webpage appears in search results, a well-written title and description tag can grab people's attention and encourage them to click on our link. This means more visitors coming to our website.
+
+3.Enhanced User Experience: Some meta tags, like viewport settings for mobile devices, ensure that our website looks good and is easy to use on various devices. 
+
+4.Correct Display of Special Characters: Meta tags specify how text on our webpage should be displayed, including special characters and symbols. This ensures that our content appears correctly and is easy to read.
